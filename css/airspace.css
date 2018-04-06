@@ -777,7 +777,7 @@ footer {
   background: #F5F5F5;
   text-align: center;
   padding-top: 48px;
-  padding-bottom: 55px;
+  padding-bottom: 1px;
 }
 footer p {
   font-size: 13px;
